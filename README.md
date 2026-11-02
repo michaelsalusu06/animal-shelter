@@ -46,7 +46,7 @@ When you launch the application, you will be greeted with the main menu:
 
 1. **Input new pet:** Choose between a Cat or Dog. Set a secure password, then define their traits. The system will give you their ID number.
 2. **Edit pet:** Enter the pet's ID number and password. You can continually update their name, color, diet, or age until you choose to exit.
-3. **Interact with pets:** Enter the pet's ID and password. Choose to either feed them (you must guess their exact diet correctly!) or talk to them to hear them speak.
+3. **Interact with pets:** Enter the pet's ID and password. Choose to either feed them (you must feed them their exact diet correctly!) or talk to them to hear them speak.
 4. **Exit:** Type `0` at the main menu to close the application.
 
 *Note: At almost any prompt in the application, you can type `0` to safely cancel your current action and return to the previous menu.*
